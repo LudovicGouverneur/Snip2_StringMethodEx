@@ -18,7 +18,8 @@ ___
 
 ## Exercises & study links.  
 * pytut: /
-* replit: [myreplit](https://repl.it/@Ludovic7127/see-a-string)  
+* replit: [myreplit](https://repl.it/@Ludovic7127/see-a-string) 
+* Plein code
 
 ```js
 "a string".charAt(2) + "ee";
@@ -30,6 +31,15 @@ ___
 ```
 * debugger: /
 * [sketches you made] : /
+* Exercices : 
+  * Put back in order : 
+    ```js
+      + "ee"
+       // (String, "see")
+      .CharAt(2)
+      // (String, "s")  
+      // (String,"a string")
+    ```
 
 ## Review : 
 
