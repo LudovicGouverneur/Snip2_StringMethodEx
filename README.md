@@ -38,8 +38,4 @@ ___
 * vocab : unary VS binary
 * next step : making an exercice of it
 
-## Link.  
-* 
-
-
 
