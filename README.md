@@ -5,9 +5,9 @@
 
 
 ## Main learning objective
-1. String method understanding
-2. Difference between unary and binary operators
-3. Building the forst step of a Expension.
+1. String method discovery
+2. Combinning unary and binary operators
+3. Building the first step of a Expension
 
 ## Code
 
@@ -33,14 +33,13 @@ ___
 
 ## Review : 
 
-* Things I struggled with : classifying the files
-* Things you learned : 
-* typeof returns a string
-* vocab : 
+* Things I struggled with : the sneaky teacher put a second (misleading) argument in the string method which does nothing but confuse.
+* Things you learned : CharAt method only select a character and a given index of the string.
+* vocab : unary VS binary
 * next step : making an exercice of it
 
 ## Link.  
-* [w3schools](https://www.w3schools.com/js/js_datatypes.asp)
+* 
 
 
 
